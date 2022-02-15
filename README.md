@@ -15,3 +15,4 @@ It is neccessary to switch variable modeHack to true. When the next request of a
 
 # Как заменить тело запроса
 Необходимо переключить переменную modeHack в значение true. При отправке следующего запроса любого типа будет запущен режим отладки. Заменить запрос можно будет либо справа в интерфейсе "Окружение и переменные", либо через консоль, изменив соответствующую переменную, отвечающую за данные этого запроса.
+![alt text] (https://github.com/KeepMusplay/Interception-Web-Requests/blob/main/2022-02-15_19-15-50.png)
