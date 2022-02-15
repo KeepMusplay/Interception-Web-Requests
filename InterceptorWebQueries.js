@@ -2,7 +2,7 @@ var modeHack = false; // for debug and forgery requests
 
 const oldConsoleLog = console.log;
 
-// forbid invoke logs from others sctripts(*optional)
+// forbid invoke logs from others scripts(*optional)
 console.log = () => {};
 console.warn = () => {};
 console.error = () => {};
