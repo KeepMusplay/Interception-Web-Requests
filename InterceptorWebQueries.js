@@ -42,8 +42,8 @@ class Console
     }
 
     static Colors = {
- 	    XMLHttpRequest: "#FFFF33",
- 	    fetch: "#FF00FF",
+ 	XMLHttpRequest: "#FFFF33",
+ 	fetch: "#FF00FF",
         WebSocket: "#00FFFF",
         Ordinary: ""
     };
